@@ -25,7 +25,7 @@ This portfolio website includes sections for:
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/lavthaiba/portfolio.git
+git clone https://github.com/hemadh/portfolio.git
 
 ```
 
